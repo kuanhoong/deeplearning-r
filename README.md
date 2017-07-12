@@ -2,15 +2,16 @@
 
 <img src="https://2.bp.blogspot.com/-6KVJDYE7Kp8/WWWBJ5x6CVI/AAAAAAADNPA/lgquO2y3cVMRXJVwJN4izhO1TpAeqMcLgCLcBGAs/s1600/logo.jpg" alt="Logo" style="width: 300px;"/>
 
-Malaysia R User Group Meetup<br/>
-13th July 2017<br/>
-Microsoft Malaysia<br/>
-Presenter: Poo Kuan Hoong, Ph.D</br>
+Malaysia R User Group Meetup<br />
+13th July 2017<br />
+Microsoft Malaysia<br />
+Presenter: Poo Kuan Hoong, Ph.D<br />
 Slides available [here](https://www.slideshare.net/kuanhoong/deep-learning-with-r)
-<br/>
-[Malaysia R User Group Facebook Page](https://www.facebook.com/rusergroupmalaysia/)<br/>
+<br />
+<br />
+[Malaysia R User Group Facebook Page](https://www.facebook.com/rusergroupmalaysia/)<br />
 [Malaysia R User Group Meetup Page](https://www.meetup.com/MY-RUserGroup/)
-
+<br />
 **TensorFlow**
 TensorFlow™ is an open source software library for numerical computation using data flow graphs. Nodes in the graph represent mathematical operations, while the graph edges represent the multidimensional data arrays (tensors) communicated between them. The flexible architecture allows you to deploy computation to one or more CPUs or GPUs in a desktop, server, or mobile device with a single API. TensorFlow was originally developed by researchers and engineers working on the Google Brain Team within Google’s Machine Intelligence research organization for the purposes of conducting machine learning and deep neural networks research, but the system is general enough to be applicable in a wide variety of other domains as well.
 
@@ -50,5 +51,3 @@ Download the training and testing dataset from [Kaggle](https://www.kaggle.com/c
 
 * [Training Dataset](https://www.kaggle.com/c/digit-recognizer/download/train.csv) 
 * [Testing Dataset](https://www.kaggle.com/c/digit-recognizer/download/test.csv)
-
-
