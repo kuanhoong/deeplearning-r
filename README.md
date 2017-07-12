@@ -6,6 +6,7 @@ Malaysia R User Group Meetup<br/>
 13th July 2017<br/>
 Microsoft Malaysia<br/>
 Presenter: Poo Kuan Hoong, Ph.D</br>
+Slides available [here](https://www.slideshare.net/kuanhoong/deep-learning-with-r)
 <br/>
 [Malaysia R User Group Facebook Page](https://www.facebook.com/rusergroupmalaysia/)<br/>
 [Malaysia R User Group Meetup Page](https://www.meetup.com/MY-RUserGroup/)
