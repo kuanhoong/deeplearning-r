@@ -11,8 +11,8 @@ library(data.table)
 
 setwd('/Users/user_adax/github/deeplearning-r/')
 
-train <- fread('data/train.csv')
-test <- fread('data/test.csv')
+train <- fread('train.csv')
+test <- fread('test.csv')
 
 ###########################
 ## Data Exploration      ##
