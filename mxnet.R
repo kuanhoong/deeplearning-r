@@ -6,6 +6,16 @@
 ## Presenter: Poo Kuan Hoong                                       ##
 #####################################################################
 
+##############################
+## install mxnet package    ##
+##############################
+
+#install.packages("drat", repos="https://cran.rstudio.com")
+#drat:::addRepo("dmlc")
+#install.packages("mxnet")
+#library(devtools)
+#devtools::install_github("datastorm-open/visNetwork")
+
 library(mxnet)
 library(data.table)
 
