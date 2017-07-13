@@ -6,6 +6,7 @@
 # http://www.github.com/kuanhoong/deeplearning-r   #
 ####################################################
 
+
 # To install TensorFlow Package
 # install_tensorflow()
 # devtools::install_github("rstudio/tensorflow")
